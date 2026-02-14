@@ -1,3 +1,6 @@
+// https://codeforces.com/problemset/problem/1005/B
+// Name: Delete from the Left
+
 #include <bits/stdc++.h>
 
 using namespace std;
